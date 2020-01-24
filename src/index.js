@@ -10,7 +10,12 @@ const Home = () => {
   );
 };
 
-ReactDOM.render(
-  <Home />,
+ReactDOM.render((
+
+  <Router >
+
+   </Router>
+)
+
   document.getElementById('root')
 );
