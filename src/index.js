@@ -13,7 +13,7 @@ const Home = () => {
 ReactDOM.render((
 
   <Router >
-
+    <Route path="/" component={Home}/>
    </Router>
 )
 
